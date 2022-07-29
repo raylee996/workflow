@@ -15,6 +15,7 @@ module.exports = {
     'vue'
   ],
   rules: {
-    semi: 'warn'
+    semi: 'warn',
+    'no-console': 'error'
   }
 }
